@@ -1,4 +1,4 @@
-# Resident-Registration-Number_Generator-
+# Resident-Registration-Number_Generator
 대한민국 주민등록번호 생성 프로그램
 [![ES Network](http://i65.tinypic.com/ohib11.png)](http://krl.kr)
 
